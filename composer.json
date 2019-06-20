@@ -1,5 +1,5 @@
 {
-    "name": "Unifreak/fetcher",
+    "name": "unifreak/fetcher",
     "description": "fetch data from configured apis",
     "type": "library",
     "require": {

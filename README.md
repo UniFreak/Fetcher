@@ -1,4 +1,4 @@
-`Fetcher` wraps around `GuzzleHttp` package, it can be used to send http requests to configured api entries
+`Fetcher` wraps around `GuzzleHttp` package, it can be used to send http requests according to configured api entries
 
 You can configure an api's url, request method, response structure, api signers etc. `Fetcher` then will send corresponding http request according to the configuration and decide whether received response is okay
 
